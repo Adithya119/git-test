@@ -1,1 +1,0 @@
-vm-prefix = "ark-prod"
